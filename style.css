@@ -10,7 +10,6 @@ p {
   font-family: 'Dela Gothic One';
 }
 
-
 h1 {
   font-family: 'Dela Gothic One';
   font-size: 90px;
@@ -46,23 +45,16 @@ header {
 }
 /* бургер-меню */
 
-<<<<<<< HEAD
-=======
-
 .Freepik {
   font-family: 'Dela Gothic One';
   font-size: 21px;
   color: black;
 }
 
-
->>>>>>> 22d62d593d32c721eb7a7ebb58f5d429146eeec9
 /* настройка фона и позиций 1 секции*/
 article {
   background-color: rgba(236, 214, 15, 0.973);
-  justify-content: center;
-  display: flex;
-  flex-direction: row;
+
   padding-left: 50px;
   padding-right: 50px;
   min-height: 100%;
@@ -95,7 +87,6 @@ article {
   color: black;
   background: rgba(236, 214, 15, 0.973);
   padding: 20px 40px;
-  
 
   position: relative;
   margin-left: 300px;
@@ -106,7 +97,6 @@ article {
   background: rgba(206, 196, 111, 0.973);
 }
 
-
 .Learn2 {
   font-size: 30px;
   font-family: 'New Tegomin';
@@ -114,7 +104,6 @@ article {
   color: black;
   background: rgba(236, 214, 15, 0.973);
   padding: 20px 40px;
-  
 
   position: relative;
   top: 20px;
@@ -122,16 +111,16 @@ article {
 
 .Submit {
   color: #000000;
-    font-size: 25px;
-    text-decoration: none;
-    border: 2px solid #000000;
-    padding: 10px 40px;
-    background-color: rgba(236, 214, 15, 0.973);;
-    margin-top: 50px;
-    display: inline-block;
+  font-size: 25px;
+  text-decoration: none;
+  border: 2px solid #000000;
+  padding: 10px 40px;
+  background-color: rgba(236, 214, 15, 0.973);
+  margin-top: 50px;
+  display: inline-block;
 
-    position: relative;
-    margin-left: 100px;
+  position: relative;
+  margin-left: 100px;
 }
 
 .Submit:hover {
@@ -184,15 +173,8 @@ article {
   background-repeat: no-repeat;
   flex: 0 0 50%;
   position: relative;
-<<<<<<< HEAD
-  top: 70px;
-  max-width: 100%;
-  width: 600px;
-=======
   top: 100px;
   max-width: 80%;
-  
->>>>>>> 22d62d593d32c721eb7a7ebb58f5d429146eeec9
 }
 
 .nature-picture {
@@ -215,12 +197,7 @@ article {
 }
 /* настройка фотографий */
 
-<<<<<<< HEAD
-/* настройка фона 1 мейна */
-=======
-
 /* настройка фона 1/2 мейна */
->>>>>>> 22d62d593d32c721eb7a7ebb58f5d429146eeec9
 .main1 {
   background-color: rgba(5, 24, 82, 0.842);
 }
@@ -262,9 +239,4 @@ article {
   top: 30px;
 }
 
-<<<<<<< HEAD
 /* настройки форм */
-=======
-
-/* настройки форм */
->>>>>>> 22d62d593d32c721eb7a7ebb58f5d429146eeec9
